@@ -13,7 +13,7 @@ public class KodillaCalculatorApplication {
 
         Calculator calculator = new Calculator();
 
-        System.out.println(calculator.addSomeNumbers(5, 5));
-        System.out.println(calculator.deleteSomeNumbers(5, 5));
+        System.out.println(calculator.add(5, 5));
+        System.out.println(calculator.subtract(5, 5));
     }
 }
