@@ -3,4 +3,4 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-rootProject.name = 'kodilla-kalkulator'
+rootProject.name = 'kodilla-calculator'
